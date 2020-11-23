@@ -1,0 +1,49 @@
+.radius-10 {
+  border-radius: 10px !important;
+}
+
+.atcion_btn {
+  position: absolute;
+  top: 0;
+  margin: 10px;
+  width: 40px;
+  object-fit: contain;
+}
+.atcion_btn:hover {
+  cursor: pointer;
+}
+
+.edit_btn {
+  left: 0;
+}
+.delete_btn {
+  right: 0;
+}
+
+.user_login {
+  color: #e3f8fa;
+  font-weight: bold;
+  background-color: #26c6da;
+  border-color: #26c6da;
+}
+
+.user_login:hover {
+  color: #26c6da;
+  font-weight: bold;
+  background-color: transparent;
+  border-color: #26c6da;
+}
+
+.admin_login {
+  color: #33373b;
+  font-weight: 600;
+  background-color: #fdd200;
+  border-color: #fdd200;
+}
+
+.admin_login:hover {
+  color: #fdd200;
+  font-weight: 600;
+  background-color: transparent;
+  border-color: #fdd200;
+}
